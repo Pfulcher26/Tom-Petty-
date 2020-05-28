@@ -1,7 +1,33 @@
-title {
+h1 {
     color: rgb(38, 110, 29);
 }
 
-.border {
-    border : 10px white;
+.my-class {
+  margin : 25px; 
+  border: 15px solid pink;
+  padding: 6px;
+  background-color: green; 
 }
+
+.my-class2 {
+  margin : 25px; 
+  border: 15px solid pink;
+  padding: 6px;
+  background-color: green; 
+}
+
+.border {
+    background: #3399ff;
+    padding: 10px;
+  }
+
+
+/* ul {
+    background: #3399ff;
+    padding: 10px;
+  }
+
+ul li {
+    border : 4px black;
+} */
+
