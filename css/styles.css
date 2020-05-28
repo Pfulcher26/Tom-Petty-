@@ -1,9 +1,9 @@
 h1 {
-    color: rgb(38, 110, 29);
+    color: white;
 }
 
 .my-class {
-  margin : 25px; 
+    margin : 25px; 
   border: 15px solid pink;
   padding: 6px;
   background-color: green; 
