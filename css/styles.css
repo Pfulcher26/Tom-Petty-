@@ -1,5 +1,9 @@
 h1 {
-    color: white;
+    color: pink;
+}
+
+body {
+  text-align: center;
 }
 
 .my-class {
@@ -25,11 +29,7 @@ ul li {
     border : 4px black;
 } */
 
-.column {
-  width: 200px;
-  width: 400px;
-  float: center;
-} 
+
 
 @media screen and (max width: 500px) {
   .column {
