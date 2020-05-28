@@ -16,12 +16,6 @@ h1 {
   background-color: green; 
 }
 
-.border {
-    background: #3399ff;
-    padding: 10px;
-  }
-
-
 /* ul {
     background: #3399ff;
     padding: 10px;
@@ -31,3 +25,17 @@ ul li {
     border : 4px black;
 } */
 
+.column {
+  width: 200px;
+  width: 400px;
+  float: right;
+} 
+
+@media screen and (max width: 500px) {
+  .column {
+    width: 250px;
+    width: 750px;
+    float: right;
+  } 
+
+}
